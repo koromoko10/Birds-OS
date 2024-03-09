@@ -23,6 +23,10 @@
 [V0.0.1A](https://github.com/koromoko10/Birds-OS/blob/main/%5BEXE%5DBirds%20OS%20V0.0.1A.zip)
 
 ## その他
+
+> [!NOTE]
+> exeを開くと最大画面表示になります。480*360なので余白は黒くなります
+
 > [!TIP]
-> exeを開くと `C:\Users\%USERNAME%\AppData\` というフォルダが生成されます<br>
+> exeを開くと `C:\Users\%USERNAME%\AppData\Roaming\Birds-OS-V0_0_1A` というフォルダが生成されます<br>
 > 初期化したい場合はそのフォルダごと削除してください
