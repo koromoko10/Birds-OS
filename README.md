@@ -1,5 +1,8 @@
 # Birds-OS
 ## 概要
+
+<img width="500" src="https://raw.githubusercontent.com/koromoko10/Birds-OS/1fb9a2def1942774e1f8fe563b6bd0fe8921b6de/%5BSource%5DBirds%20OS%20V0.0.1A/assets/c85448d3c9a4fdce3037d1d6b030d361.svg" title="Birds OS image">
+
 自分が小学生の時に作ったOSもどきです。なんとなく公開してます
 ## フォルダ階層
 
